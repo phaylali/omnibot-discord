@@ -35,4 +35,11 @@ Create a `.env` file with your platform credentials:
 ## 📦 Installation
 
 ```bash
+pip install -r requirements.txt
+```
+
+## 🏃‍♂️ Running the Bot
+
+```bash
 python main.py
+```
