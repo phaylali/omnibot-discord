@@ -43,3 +43,5 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-project.svg)](https://donate.unrwa.org/-landing-page/en_EN)
